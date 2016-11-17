@@ -1,0 +1,3 @@
+= Dropbeat Docs
+
+Welcome to the Dropbeat documentation.
